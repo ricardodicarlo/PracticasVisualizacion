@@ -1,1 +1,1 @@
-# PracticasVisualizacion
+# Practicas de Visualización de Datos
